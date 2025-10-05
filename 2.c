@@ -18,7 +18,8 @@ int main(){
         div++ ;
     }
 
-    printf("%d\n", mul); 
-    printf("%d", div);   
+    printf("multiply:%d\n", mul); 
+    printf("divide:%d", div);   
     return 0; 
 }
+
